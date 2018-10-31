@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://anarchyrucks.github.io/posts/hello_world/</loc>
+    <lastmod>2018-10-31T20:10:15+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://anarchyrucks.github.io/</loc>
+    <lastmod>2018-10-31T20:10:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://anarchyrucks.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarchyrucks.github.io/posts/</loc>
+    <lastmod>2018-10-31T20:10:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
