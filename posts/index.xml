@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Ashish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Oct 2018 20:10:15 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 17:57:31 +0530</lastBuildDate>
     
 	<atom:link href="https://anarchyrucks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bloom Filter</title>
+      <link>https://anarchyrucks.github.io/posts/bloom-filters/</link>
+      <pubDate>Tue, 06 Nov 2018 17:57:31 +0530</pubDate>
+      
+      <guid>https://anarchyrucks.github.io/posts/bloom-filters/</guid>
+      <description>A Bloom Filter is a space-efficient probabilistic data structure, created by Burton Howard Bloom in 1970. It is used to test whether an element is a member of a set with no false negatives.
+In Bloom Filter, we hash an element with k-hashing algorithms, generate indices from these hashes and then set the value at these indices to 1 in the filter-list. To check if an element is in the set, we run the same k-hashing algorithms on that element and check if all the values at the indices produced by the hashes are 1.</description>
+    </item>
     
     <item>
       <title>Hello, World!</title>
